@@ -72,6 +72,4 @@ public class InternetDetailViewController: UIViewController
             webViewer.load(requestedPDF as URLRequest)
         }
     }
-    
-    
 }
